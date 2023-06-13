@@ -99,7 +99,7 @@ a {
   width: 33%;
   aspect-ratio: 3/2;
   object-fit: contain;
-  margin: 3px;
+  
   /* mix-blend-mode: color-burn; */
 }
 .greeting{
@@ -157,6 +157,7 @@ a {
     width: 50%;
     aspect-ratio: 3/2;
     object-fit: contain;
+    margin: 3px;
   
   }
 }
